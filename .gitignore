@@ -1,0 +1,9 @@
+*.txt
+*.csv
+bin/
+include/
+lib
+lib64
+local
+share
+*.cfg
